@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+# Welcome to MAUD new website!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -21,9 +21,9 @@
 title: MAUD - Materials Analysis Using Diffraction (and more)
 email: luca.lutterotti@unitn.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  MAUD is a program developed at the Department of Industrial Enginnering of the University of Trento, Italy.
+  It's an analysis software to model, combine and refine diffraction, fluorescence, reflectivity data in order to get information on crystal structures and microstructure of complex materials.
+  You can use it to identify and quantify crystalline or amorphous phases, nanostructures, crystallographic texture and residual stresses, layered and defective materials etc.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: maud_program
